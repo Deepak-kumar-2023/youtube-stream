@@ -1,0 +1,17 @@
+{
+  "name": "streaming",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "deepak",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.4",
+    "socket.io": "^4.7.5"
+  }
+}
